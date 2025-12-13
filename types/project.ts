@@ -7,5 +7,6 @@ export interface Project {
   icon: string
   component: ReactNode
   sourceCode: string
+  sourceLink?: string
 }
 
